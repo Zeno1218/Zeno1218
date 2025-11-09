@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Zeno – aka **Jayson Wang** 👨‍💻
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+React+Enthusiast;YouTuber+@pedrotechnologies;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Frontend+Dev+%7C+React+Enthusiast;YouTuber+@pedrotechnologies;" alt="Typing SVG" />
 </div>
 
 ---
@@ -26,5 +26,8 @@
 
 ## 🤝 Connect with Me
 
-[![Bilibili](https://img.shields.io/badge/-Bilibili-FF69B4?style=flat&logo=bilibili&logoColor=white)]([https://space.bilibili.com/Zeno1218](https://space.bilibili.com/98565572?spm_id_from=333.1007.0.0))
-[![Xiaohongshu](https://img.shields.io/badge/-Xiaohongshu-E60023?style=flat&logo=xiaohongshu&logoColor=white)]([https://www.xiaohongshu.com/user/profile/你的小红书ID](https://www.xiaohongshu.com/user/profile/5e30eaee0000000001000b3d))
+
+## 🤝 Connect with Me
+
+[![Bilibili](https://img.shields.io/badge/B站-Zeno1218-FF69B4?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/98565572?spm_id_from=333.1007.0.0))
+[![Xiaohongshu](https://img.shields.io/badge/小红书-你的用户名-E60023?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/5e30eaee0000000001000b3d))
