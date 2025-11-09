@@ -29,5 +29,5 @@
 
 ## 🤝 Connect with Me
 
-[![Bilibili](https://img.shields.io/badge/B站-Zeno1218-FF69B4?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/98565572?spm_id_from=333.1007.0.0))
-[![Xiaohongshu](https://img.shields.io/badge/小红书-你的用户名-E60023?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/5e30eaee0000000001000b3d))
+![Bilibili](https://img.shields.io/badge/B站-Zeno1218-FF69B4?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/98565572?spm_id_from=333.1007.0.0))
+![Xiaohongshu](https://img.shields.io/badge/小红书-你的用户名-E60023?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/5e30eaee0000000001000b3d))
