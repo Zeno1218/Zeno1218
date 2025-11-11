@@ -23,9 +23,3 @@
 </div>
 
 ---
-
-## 🤝 Connect with Me
-
-
-![Bilibili]
-![Xiaohongshu]
