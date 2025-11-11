@@ -27,5 +27,5 @@
 ## 🤝 Connect with Me
 
 
-[![Bilibili](https://img.shields.io/badge/B站-迷茫阿旺-FF69B4?style=for-the-badge&logo=bilibili&logoColor=white)]
-[![Xiaohongshu](https://img.shields.io/badge/小红书-考环硕的旺仔-E60023?style=for-the-badge&logo=xiaohongshu&logoColor=white)]
+![Bilibili]
+![Xiaohongshu]
